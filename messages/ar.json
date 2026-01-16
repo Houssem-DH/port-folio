@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "نبذة",
+    "skills": "المهارات",
+    "experience": "الخبرة",
+    "projects": "المشاريع",
+    "contact": "تواصل",
+    "cta": "لنتحدث"
+  },
+  "hero": {
+    "available": "متاح للعمل الحر",
+    "headlineA": "أبني",
+    "headlineB": "منتجات ويب حديثة",
+    "headlineC": "بتصميم احترافي وقابلية توسّع ممتازة.",
+    "subA": "أنا",
+    "subB": "—",
+    "subC": "أطوّر منصات Laravel + React، واجهات REST قابلة للتوسع، ونشر جاهز للإنتاج.",
+    "ctaProjects": "عرض المشاريع",
+    "ctaCv": "تحميل السيرة",
+    "deliveredTitle": "+2",
+    "deliveredSub": "مشاريع منجزة",
+    "leetcodeTitle": "+50",
+    "leetcodeSub": "مسائل LeetCode",
+    "cardTitle": "بناء وتسليم",
+    "statWebTitle": "ويب",
+    "statWebSub": "منصات",
+    "statApiTitle": "واجهات",
+    "statApiSub": "REST",
+    "statCloudTitle": "سحابة",
+    "statCloudSub": "نشر"
+  },
+  "stack": {
+    "laravel": "Laravel",
+    "react": "React",
+    "postgres": "PostgreSQL",
+    "rest": "REST APIs",
+    "docker": "Docker",
+    "aws": "AWS",
+    "k8s": "Kubernetes",
+    "maps": "خرائط",
+    "node": "Node.js",
+    "git": "Git"
+  },
+   "about": {
+    "eyebrow": "نبذة سريعة",
+    "title": "نبذة عني",
+    "headline": "ماذا أقدّم",
+    "subheadline": "تطوير Full-stack + نشر",
+    "bio": "أبني منصات ويب حديثة بتجربة مستخدم جميلة وبنية خلفية قوية. أحب تطوير ميزات المنتج، دمج الـ APIs، ونشر أنظمة موثوقة.",
+    "educationTitle": "التعليم",
+    "activitiesTitle": "الأنشطة",
+    "languagesTitle": "اللغات",
+    "experienceHint": "آخر خبرة",
+    "experienceFallback": "مطور مستقل",
+    "stats": {
+      "projects": "المشاريع",
+      "projectsValue": "+2 منجزة",
+      "leetcode": "LeetCode",
+      "leetcodeValue": "+50 محلولة",
+      "focus": "التركيز",
+      "focusValue": "ويب + APIs"
+    },
+    "tags": ["Laravel", "React", "PostgreSQL", "REST APIs", "Docker", "AWS"]
+  },
+"skills": {
+    "eyebrow": "الأدوات",
+    "title": "المهارات",
+    "hint": "التقنيات المستخدمة",
+    "intro": "مجموعة تقنيات عملية لبناء ونشر وتطوير تطبيقات حقيقية قابلة للتوسع.",
+    "categories": "التصنيفات",
+    "categoriesHint": "اختر تصنيفًا للاستعراض",
+    "panelHint": "تقنيات أستخدمها بثقة في الإنتاج",
+    "items": "مهارات",
+    "groups": {
+      "Web Dev": "تطوير الويب",
+      "Cloud / DevOps": "السحابة وDevOps",
+      "Databases": "قواعد البيانات",
+      "Tools": "الأدوات",
+      "APIs": "واجهات برمجة التطبيقات والتكاملات",
+      "Game Dev": "تطوير الألعاب"
+    },
+    "microA": { "title": "هيكلة نظيفة", "desc": "كود منظم وسهل الصيانة" },
+    "microB": { "title": "تسليم عملي", "desc": "تطوير سريع مع جودة" },
+    "microC": { "title": "عقلية الإنتاج", "desc": "نشر، مراقبة، تحسين" }
+  },
+   "experience": {
+    "eyebrow": "العمل",
+    "title": "الخبرة",
+    "hint": "المسار المهني",
+    "intro": "نظرة سريعة على أماكن عملي وما قمت بتسليمه — مع التركيز على النتائج الواقعية.",
+    "railTitle": "الخط الزمني",
+    "railHint": "اختر عنصرًا لعرض التفاصيل",
+    "expand": "عرض",
+    "collapse": "إخفاء",
+    "active": "نشط",
+    "view": "مشاهدة",
+    "outcomeTitle": "النتيجة",
+    "outcomeText": "أركز على تسليم ميزات مستقرة، هيكلة نظيفة، وتجهيزات جاهزة للإنتاج."
+  }
+}

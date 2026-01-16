@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact",
+    "cta": "Let’s talk"
+  },
+  "hero": {
+    "available": "Available for freelance",
+    "headlineA": "I build",
+    "headlineB": "modern web products",
+    "headlineC": "that look premium and scale cleanly.",
+    "subA": "I’m",
+    "subB": "— a",
+    "subC": "I ship Laravel + React platforms, scalable APIs, and production-ready deployments.",
+    "ctaProjects": "View Projects",
+    "ctaCv": "Download CV",
+    "deliveredTitle": "2+",
+    "deliveredSub": "Delivered projects",
+    "leetcodeTitle": "50+",
+    "leetcodeSub": "LeetCode solutions",
+    "cardTitle": "Building & shipping",
+    "statWebTitle": "Web",
+    "statWebSub": "Platforms",
+    "statApiTitle": "APIs",
+    "statApiSub": "REST",
+    "statCloudTitle": "Cloud",
+    "statCloudSub": "Deploy"
+  },
+  "stack": {
+    "laravel": "Laravel",
+    "react": "React",
+    "postgres": "PostgreSQL",
+    "rest": "REST APIs",
+    "docker": "Docker",
+    "aws": "AWS",
+    "k8s": "Kubernetes",
+    "maps": "Maps",
+    "node": "Node.js",
+    "git": "Git"
+  },
+  "about": {
+    "eyebrow": "Quick intro",
+    "title": "About",
+    "headline": "What I do",
+    "subheadline": "Full-stack development + deployment",
+    "bio": "I build modern web platforms with clean UX and strong backend foundations. I enjoy shipping product features, integrating APIs, and deploying reliable systems.",
+    "educationTitle": "Education",
+    "activitiesTitle": "Activities",
+    "languagesTitle": "Languages",
+    "experienceHint": "Recent experience",
+    "experienceFallback": "Freelance Developer",
+    "stats": {
+      "projects": "Projects",
+      "projectsValue": "2+ shipped",
+      "leetcode": "LeetCode",
+      "leetcodeValue": "50+ solved",
+      "focus": "Focus",
+      "focusValue": "Web + APIs"
+    },
+    "tags": ["Laravel", "React", "PostgreSQL", "REST APIs", "Docker", "AWS"]
+  },
+"skills": {
+    "eyebrow": "Toolbox",
+    "title": "Skills",
+    "hint": "Daily stack",
+    "intro": "A focused, production-ready stack that I use to build, ship, and scale real-world applications.",
+    "categories": "Categories",
+    "categoriesHint": "Pick a category to explore",
+    "panelHint": "Technologies I’m comfortable shipping with",
+    "items": "skills",
+    "groups": {
+      "Web Dev": "Web Development",
+      "Cloud / DevOps": "Cloud & DevOps",
+      "Databases": "Databases",
+      "Tools": "Tools",
+      "APIs": "APIs & Integrations",
+      "Game Dev": "Game Development"
+    },
+    "microA": { "title": "Clean architecture", "desc": "Maintainable code and structure" },
+    "microB": { "title": "Practical delivery", "desc": "Fast iterations with quality" },
+    "microC": { "title": "Production mindset", "desc": "Deploy, monitor, improve" }
+  },
+   "experience": {
+    "eyebrow": "Work",
+    "title": "Experience",
+    "hint": "Career timeline",
+    "intro": "A quick view of where I worked and what I delivered — focused on real outcomes.",
+    "railTitle": "Timeline",
+    "railHint": "Select an item to view details",
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "active": "Active",
+    "view": "View",
+    "outcomeTitle": "Outcome",
+    "outcomeText": "I focus on shipping stable features, clean architecture, and production-ready delivery."
+  }
+}

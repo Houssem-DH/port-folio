@@ -1,0 +1,102 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "projects": "Projets",
+    "contact": "Contact",
+    "cta": "Parlons"
+  },
+  "hero": {
+    "available": "Disponible en freelance",
+    "headlineA": "Je crée",
+    "headlineB": "des produits web modernes",
+    "headlineC": "au design premium et qui scalent proprement.",
+    "subA": "Je suis",
+    "subB": "—",
+    "subC": "Je développe des plateformes Laravel + React, des APIs scalables et des déploiements prêts pour la prod.",
+    "ctaProjects": "Voir les projets",
+    "ctaCv": "Télécharger le CV",
+    "deliveredTitle": "2+",
+    "deliveredSub": "Projets livrés",
+    "leetcodeTitle": "50+",
+    "leetcodeSub": "Exercices LeetCode",
+    "cardTitle": "Build & livraison",
+    "statWebTitle": "Web",
+    "statWebSub": "Plateformes",
+    "statApiTitle": "APIs",
+    "statApiSub": "REST",
+    "statCloudTitle": "Cloud",
+    "statCloudSub": "Déploiement"
+  },
+  "stack": {
+    "laravel": "Laravel",
+    "react": "React",
+    "postgres": "PostgreSQL",
+    "rest": "APIs REST",
+    "docker": "Docker",
+    "aws": "AWS",
+    "k8s": "Kubernetes",
+    "maps": "Cartes",
+    "node": "Node.js",
+    "git": "Git"
+  },
+   "about": {
+    "eyebrow": "Présentation",
+    "title": "À propos",
+    "headline": "Ce que je fais",
+    "subheadline": "Full-stack + déploiement",
+    "bio": "Je construis des plateformes web modernes avec une UX soignée et un backend solide. J’aime livrer des fonctionnalités produit, intégrer des APIs et déployer des systèmes fiables.",
+    "educationTitle": "Formation",
+    "activitiesTitle": "Activités",
+    "languagesTitle": "Langues",
+    "experienceHint": "Expérience récente",
+    "experienceFallback": "Développeur Freelance",
+    "stats": {
+      "projects": "Projets",
+      "projectsValue": "2+ livrés",
+      "leetcode": "LeetCode",
+      "leetcodeValue": "50+ résolus",
+      "focus": "Focus",
+      "focusValue": "Web + APIs"
+    },
+    "tags": ["Laravel", "React", "PostgreSQL", "APIs REST", "Docker", "AWS"]
+  },
+"skills": {
+    "eyebrow": "Outils",
+    "title": "Compétences",
+    "hint": "Stack quotidien",
+    "intro": "Une stack orientée production pour construire, livrer et faire évoluer des applications réelles.",
+    "categories": "Catégories",
+    "categoriesHint": "Choisissez une catégorie",
+    "panelHint": "Technologies que j’utilise pour livrer en production",
+    "items": "compétences",
+    "groups": {
+      "Web Dev": "Développement Web",
+      "Cloud / DevOps": "Cloud & DevOps",
+      "Databases": "Bases de données",
+      "Tools": "Outils",
+      "APIs": "APIs & Intégrations",
+      "Game Dev": "Développement de jeux"
+    },
+    "microA": { "title": "Architecture propre", "desc": "Code maintenable et structuré" },
+    "microB": { "title": "Livraison efficace", "desc": "Itérations rapides et qualité" },
+    "microC": { "title": "Mentalité production", "desc": "Déployer, monitorer, améliorer" }
+  },
+  "experience": {
+    "eyebrow": "Travail",
+    "title": "Expérience",
+    "hint": "Chronologie",
+    "intro": "Un aperçu rapide de mes expériences et livrables — axé sur des résultats concrets.",
+    "railTitle": "Timeline",
+    "railHint": "Sélectionnez un élément pour voir les détails",
+    "expand": "Développer",
+    "collapse": "Réduire",
+    "active": "Actif",
+    "view": "Voir",
+    "outcomeTitle": "Résultat",
+    "outcomeText": "Je privilégie des fonctionnalités stables, une architecture propre et une livraison prête pour la production."
+  }
+}
+
