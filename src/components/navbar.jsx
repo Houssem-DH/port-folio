@@ -113,7 +113,7 @@ export default function Navbar() {
                 <span className="relative h-2.5 w-2.5 rounded-full bg-background" />
               </span>
               <div className="leading-tight">
-                <div className="font-extrabold tracking-tight">Houssem.dev</div>
+                <div className="font-extrabold tracking-tight">HoussemDH.dev</div>
                 <div className="hidden md:block text-xs text-muted-foreground">Full-stack Web Developer</div>
               </div>
             </Link>
