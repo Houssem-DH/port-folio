@@ -43,7 +43,10 @@ export const projects = [
     description:
       "A centralized platform to manage, collaborate, and connect Algerian laboratories with the socio-economic world (Startup).",
     tech: ["Laravel", "PHP", "PostgreSQL", "React.js"],
+    category: "web",
     links: { live: "", repo: "" },
+    image: "/assets/img/projects/test.jpg",
+    video: "", // optional: "/assets/videos/projects/labconnect.mp4"
     featured: true,
   },
   {
@@ -51,7 +54,10 @@ export const projects = [
     period: "2021 – Present",
     description: "Full-featured e-commerce platform.",
     tech: ["Laravel", "PHP", "JavaScript"],
+    category: "web",
     links: { live: "", repo: "" },
+    image: "/assets/img/projects/test.jpg",
+    video: "",
     featured: true,
   },
   {
@@ -59,7 +65,10 @@ export const projects = [
     period: "2021 – Present",
     description: "Tourism platform with interactive maps.",
     tech: ["Laravel", "PHP", "Google Maps API"],
+    category: "web",
     links: { live: "", repo: "" },
+    image: "/assets/img/projects/test.jpg",
+    video: "",
     featured: false,
   },
   {
@@ -67,10 +76,29 @@ export const projects = [
     period: "2021 – Present",
     description: "3D interactive environment with dynamic physics system.",
     tech: ["Unity3D", "C#", "Blender"],
+    category: "game",
     links: { live: "", repo: "" },
+    image: "/assets/img/projects/test.jpg",
+    video: "/assets/videos/projects/test.mp4", // optional: "/assets/videos/projects/odyssey.mp4"
+    featured: false,
+  },
+
+  // Example: mobile category (add when you have one)
+  {
+    name: "Mobile App Example",
+    period: "2025",
+    description: "A modern mobile app example (replace with your real project).",
+    tech: ["React Native", "Expo"],
+    category: "mobile",
+    links: { live: "", repo: "" },
+    image: "/assets/img/projects/test.jpg",
+    video: "",
     featured: false,
   },
 ];
+
+
+
 
 export const skills = [
   { group: "Web Dev", items: ["Laravel", "PHP", "React.js", "Node.js"] },

@@ -42,28 +42,35 @@
     "node": "Node.js",
     "git": "Git"
   },
-   "about": {
-    "eyebrow": "نبذة سريعة",
+  "about": {
+    "eyebrow": "نبذة",
     "title": "نبذة عني",
-    "headline": "ماذا أقدّم",
-    "subheadline": "تطوير Full-stack + نشر",
-    "bio": "أبني منصات ويب حديثة بتجربة مستخدم جميلة وبنية خلفية قوية. أحب تطوير ميزات المنتج، دمج الـ APIs، ونشر أنظمة موثوقة.",
-    "educationTitle": "التعليم",
-    "activitiesTitle": "الأنشطة",
-    "languagesTitle": "اللغات",
-    "experienceHint": "آخر خبرة",
-    "experienceFallback": "مطور مستقل",
+    "hint": "تعرف علي أكثر",
+    "intro": "مساري الدراسي وخبرتي وما أركز عليه حاليًا.",
+    "headline": "من أنا؟",
+    "subheadline": "خلفية في هندسة البيانات وتقنيات الويب",
+    "bio": "أنا مطوّر Full-Stack أركز على بناء منصات ويب جاهزة للإنتاج. أهتم بتجربة المستخدم، الأداء، وجودة الكود.",
     "stats": {
       "projects": "المشاريع",
       "projectsValue": "+2 منجزة",
       "leetcode": "LeetCode",
-      "leetcodeValue": "+50 محلولة",
+      "leetcodeValue": "+50 مسألة",
       "focus": "التركيز",
-      "focusValue": "ويب + APIs"
+      "focusValue": "الويب وواجهات API"
     },
-    "tags": ["Laravel", "React", "PostgreSQL", "REST APIs", "Docker", "AWS"]
+    "tags": ["Laravel", "React", "PostgreSQL", "Cloud", "UI/UX"],
+    "principlesTitle": "ما أقدّره",
+    "principles": "الوضوح، الأداء، وبنية قابلة للصيانة — مع اهتمام قوي بتفاصيل الواجهة.",
+    "educationTitle": "التعليم",
+    "educationHint": "المسار الأكاديمي",
+    "activitiesTitle": "الأنشطة",
+    "activitiesHint": "مسابقات وتعلم",
+    "activitiesFooter": "تعلم مستمر — وإنجاز مستمر.",
+    "languagesTitle": "اللغات",
+    "languagesHint": "التواصل",
+    "languagesFooter": "مرتاح للعمل بالإنجليزية والعربية والفرنسية."
   },
-"skills": {
+  "skills": {
     "eyebrow": "الأدوات",
     "title": "المهارات",
     "hint": "التقنيات المستخدمة",
@@ -84,7 +91,7 @@
     "microB": { "title": "تسليم عملي", "desc": "تطوير سريع مع جودة" },
     "microC": { "title": "عقلية الإنتاج", "desc": "نشر، مراقبة، تحسين" }
   },
-   "experience": {
+  "experience": {
     "eyebrow": "العمل",
     "title": "الخبرة",
     "hint": "المسار المهني",
@@ -97,5 +104,52 @@
     "view": "مشاهدة",
     "outcomeTitle": "النتيجة",
     "outcomeText": "أركز على تسليم ميزات مستقرة، هيكلة نظيفة، وتجهيزات جاهزة للإنتاج."
+  },
+  "projects": {
+    "eyebrow": "أعمال مختارة",
+    "title": "المشاريع",
+    "hint": "نماذج عمل ومشاريع",
+    "intro": "مجموعة مختارة من المشاريع — تركيز على منتج حقيقي وتنفيذ نظيف.",
+    "featured": "مميز",
+    "demo": "عرض",
+    "code": "GitHub",
+    "private": "مشروع خاص / العرض غير متاح",
+    "filtersTitle": "التصفية",
+    "filtersHint": "استعرض المشاريع حسب الفئة",
+    "filter": {
+      "all": "كل المشاريع",
+      "featured": "المميزة",
+      "web": "منصات ويب",
+      "game": "ألعاب / ثلاثي الأبعاد",
+      "mobile": "تطبيقات الهاتف"
+    },
+    "items": "مشاريع",
+    "gridTitle": "كل المشاريع",
+    "gridHint": "مرّر لرؤية معاينة وافتح الروابط للاستكشاف",
+    "noteTitle": "نصيحة",
+    "noteText": "أضف لقطات شاشة داخل /public/assets/img/projects ليبدو القسم أكثر احترافية."
+  },
+  "contact": {
+    "eyebrow": "تواصل",
+    "title": "لننجز شيئًا مميزًا",
+    "hint": "متاح للتعاون والعمل الحر",
+    "intro": "هل لديك فكرة مشروع أو ترغب في التعاون؟ لا تتردد في التواصل معي.",
+    "cardInfoTitle": "معلومات التواصل",
+    "cardInfoDesc": "يمكنك التواصل معي مباشرة عبر المعلومات التالية.",
+    "phone": "الهاتف",
+    "website": "الموقع الإلكتروني",
+    "email": "البريد الإلكتروني",
+    "emailCta": "راسلني عبر البريد",
+    "cardFormTitle": "رسالة سريعة",
+    "cardFormDesc": "أرسل رسالة قصيرة وسأقوم بالرد عليك في أقرب وقت.",
+    "name": "اسمك",
+    "emailPlaceholder": "بريدك الإلكتروني",
+    "message": "حدثني عن مشروعك…",
+    "send": "إرسال الرسالة",
+    "sending": "جاري الإرسال…",
+    "successTitle": "تم الإرسال ✅",
+    "success": "تم إرسال رسالتك بنجاح، سأقوم بالرد عليك قريبًا.",
+    "formHint": "ملاحظة: هذا النموذج يستخدم Formspree (خدمة مجانية).",
+    "error": "حدث خطأ ❌ يرجى المحاولة مرة أخرى."
   }
 }

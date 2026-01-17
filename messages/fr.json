@@ -42,26 +42,33 @@
     "node": "Node.js",
     "git": "Git"
   },
-   "about": {
+  "about": {
     "eyebrow": "Présentation",
     "title": "À propos",
-    "headline": "Ce que je fais",
-    "subheadline": "Full-stack + déploiement",
-    "bio": "Je construis des plateformes web modernes avec une UX soignée et un backend solide. J’aime livrer des fonctionnalités produit, intégrer des APIs et déployer des systèmes fiables.",
-    "educationTitle": "Formation",
-    "activitiesTitle": "Activités",
-    "languagesTitle": "Langues",
-    "experienceHint": "Expérience récente",
-    "experienceFallback": "Développeur Freelance",
+    "hint": "Quelques infos sur moi",
+    "intro": "Mon parcours, ma formation et ce sur quoi je me concentre actuellement.",
+    "headline": "À propos de moi",
+    "subheadline": "Spécialisation : data engineering & web",
+    "bio": "Je suis développeur full-stack et je construis des plateformes web prêtes pour la production. J’accorde beaucoup d’importance à l’UI, aux performances et à la qualité du code.",
     "stats": {
       "projects": "Projets",
       "projectsValue": "2+ livrés",
       "leetcode": "LeetCode",
       "leetcodeValue": "50+ résolus",
       "focus": "Focus",
-      "focusValue": "Web + APIs"
+      "focusValue": "Web & APIs"
     },
-    "tags": ["Laravel", "React", "PostgreSQL", "APIs REST", "Docker", "AWS"]
+    "tags": ["Laravel", "React", "PostgreSQL", "Cloud", "UI/UX"],
+    "principlesTitle": "Mes valeurs",
+    "principles": "Clarté, performance et architecture maintenable — avec une vraie attention aux détails UI.",
+    "educationTitle": "Formation",
+    "educationHint": "Parcours académique",
+    "activitiesTitle": "Activités",
+    "activitiesHint": "Compétitions & apprentissage",
+    "activitiesFooter": "Toujours apprendre — toujours livrer.",
+    "languagesTitle": "Langues",
+    "languagesHint": "Communication",
+    "languagesFooter": "À l’aise en anglais, arabe et français."
   },
 "skills": {
     "eyebrow": "Outils",
@@ -97,6 +104,54 @@
     "view": "Voir",
     "outcomeTitle": "Résultat",
     "outcomeText": "Je privilégie des fonctionnalités stables, une architecture propre et une livraison prête pour la production."
+  },
+ "projects": {
+    "eyebrow": "Travaux sélectionnés",
+    "title": "Projets",
+    "hint": "Études de cas & réalisations",
+    "intro": "Une sélection de projets — axée sur un travail produit réel et une implémentation propre.",
+    "featured": "Vedette",
+    "demo": "Démo",
+    "code": "GitHub",
+    "private": "Projet privé / démo indisponible",
+    "filtersTitle": "Filtres",
+    "filtersHint": "Explorer les projets par catégorie",
+    "filter": {
+      "all": "Tous les projets",
+      "featured": "Vedettes",
+      "web": "Plateformes web",
+      "game": "Jeu / 3D",
+      "mobile": "Apps mobiles"
+    },
+    "items": "projets",
+    "gridTitle": "Tous les projets",
+    "gridHint": "Survolez pour prévisualiser, ouvrez les liens",
+    "noteTitle": "Astuce",
+    "noteText": "Ajoutez des captures dans /public/assets/img/projects pour un rendu plus premium."
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Construisons quelque chose",
+    "hint": "Ouvert à la collaboration et au freelance",
+    "intro": "Vous avez un projet en tête ou souhaitez collaborer ? Contactez-moi et discutons-en.",
+    "cardInfoTitle": "Me contacter",
+    "cardInfoDesc": "Vous pouvez me joindre directement via les informations ci-dessous.",
+    "phone": "Téléphone",
+    "website": "Site web",
+    "email": "Email",
+    "emailCta": "M’envoyer un email",
+    "cardFormTitle": "Message rapide",
+    "cardFormDesc": "Envoyez un court message et je vous répondrai rapidement.",
+    "name": "Votre nom",
+    "emailPlaceholder": "Votre email",
+    "message": "Parlez-moi de votre projet…",
+    "send": "Envoyer le message",
+    "sending": "Envoi en cours…",
+    "successTitle": "Envoyé ✅",
+    "success": "Votre message a été envoyé avec succès. Je vous répondrai très bientôt.",
+    "formHint": "Astuce : ce formulaire utilise Formspree (gratuit).",
+    "error": "Une erreur s’est produite ❌ Veuillez réessayer."
   }
+   
 }
 
