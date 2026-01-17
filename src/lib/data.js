@@ -1,11 +1,11 @@
 export const profile = {
   name: "Houssem Eddine Dahel",
-  brand: "Houssem.dev",
+  brand: "HoussemDH.dev",
   role: "Full-stack Web Developer",
   location: "Algeria",
   phone: "+213 549 583 515",
   email: "houssemoodahel@gmail.com",
-  website: "https://houssemdh.vercel.app",
+  website: "https://houssemdh.netlify.app/",
   github: "https://github.com/Houssem-DH",
   linkedin: "https://www.linkedin.com/in/xdhoussem",
   x: "https://x.com/HoussemDh19",

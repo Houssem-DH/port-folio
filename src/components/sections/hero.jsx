@@ -83,7 +83,7 @@ export default function Hero() {
               </Button>
 
               <Button asChild size="lg" variant="outline" className="rounded-full">
-                <a href="/resume.pdf" download>
+                <a href="/assets/cv.pdf" download>
                   <Download className="mr-2 h-4 w-4" />
                   {t("ctaCv")}
                 </a>
